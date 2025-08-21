@@ -29,9 +29,6 @@ Movie revenue data scraped from [The Numbers](https://www.the-numbers.com/movie/
 - Domestic box office revenue  
 - International box office revenue  
 
-## 📷 Dashboard Preview
-*(Insert screenshot of your Shiny dashboard here)*  
-
 ## ⚡ How to Run
 1. Clone this repository  
    ```bash
