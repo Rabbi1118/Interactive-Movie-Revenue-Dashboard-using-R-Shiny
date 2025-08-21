@@ -1,4 +1,4 @@
-# Interactive Movie Revenue Dashboard (R Shiny)
+# Interactive Movie Revenue Dashboard Using R Shiny
 
 ## 📌 Project Overview
 This project builds an **interactive dashboard** using **R Shiny** to analyze and visualize movie revenue data (worldwide, domestic, and international).  
