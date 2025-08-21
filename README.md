@@ -7,41 +7,41 @@ Data was collected through web scraping from The Numbers, then preprocessed, ana
 
 🚀 Features
 
-Web scraping of real-world movie revenue data
+  Web scraping of real-world movie revenue data
+  
+  Data preprocessing: cleaning, transformation, reduction
+  
+  Descriptive statistics: mean, median, variance, quartiles, percentiles
+  
+  Interactive visualizations: scatter plots, bar charts, density plots, pie charts
 
-Data preprocessing: cleaning, transformation, reduction
+  R Shiny dashboard with:
 
-Descriptive statistics: mean, median, variance, quartiles, percentiles
-
-Interactive visualizations: scatter plots, bar charts, density plots, pie charts
-
-R Shiny dashboard with:
-
-Table filtering & searching
-
-Statistical summaries
-
-Customizable graph selection
+    Table filtering & searching
+    
+    Statistical summaries
+    
+    Customizable graph selection
 
 🛠️ Tools & Libraries
 
-R
-
-R Shiny – interactive dashboard
-
-rvest – web scraping
-
-dplyr – data manipulation
-
-ggplot2, ggpie – visualization
+  R
+  
+  R Shiny – interactive dashboard
+  
+  rvest – web scraping
+  
+  dplyr – data manipulation
+  
+  ggplot2, ggpie – visualization
 
 📊 Data Source
 
-Movie revenue data scraped from The Numbers, including:
-
-Movie title
-
-Release year
+  Movie revenue data scraped from The Numbers, including:
+  
+  Movie title
+  
+  Release year
 
 Worldwide box office revenue
 
