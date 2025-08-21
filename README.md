@@ -29,21 +29,6 @@ Movie revenue data scraped from [The Numbers](https://www.the-numbers.com/movie/
 - Domestic box office revenue  
 - International box office revenue  
 
-## ⚡ How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/movie-revenue-dashboard.git
-   ```
-2. Open `app.R` in **RStudio**  
-3. Install required libraries if not already installed:
-   ```R
-   install.packages(c("shiny", "rvest", "dplyr", "ggplot2", "ggpie", "DT"))
-   ```
-4. Run the Shiny app:
-   ```R
-   shiny::runApp("app.R")
-   ```
-
 ## 📚 Learning Outcomes
 - Practical experience in **web scraping** and handling real-world noisy data  
 - Applied **data preprocessing and descriptive statistics**  
