@@ -1,12 +1,12 @@
 # Interactive-Movie-Revenue-Dashboard-using-R-Shiny
 
-📌 ##Project Overview
+📌 ## Project Overview
 
 This project builds an interactive dashboard using R Shiny to analyze and visualize movie revenue data (worldwide, domestic, and international).
 Data was collected through web scraping from The Numbers
 , then preprocessed, analyzed, and visualized to gain insights into global box office performance.
 
-🚀 ##Features
+🚀 ## Features
 
 Web scraping of real-world movie revenue data
 
@@ -24,7 +24,7 @@ Statistical summaries
 
 Customizable graph selection
 
-🛠️ ##Tools & Libraries
+🛠️ ## Tools & Libraries
 
 R
 
@@ -36,7 +36,7 @@ dplyr – data manipulation
 
 ggplot2, ggpie – visualization
 
-📊 ##Data Source
+📊 ## Data Source
 
 Movie revenue data scraped from The Numbers
 , including:
